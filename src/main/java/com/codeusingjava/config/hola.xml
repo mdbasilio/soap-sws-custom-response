@@ -1,0 +1,7 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+   <soapenv:Body>
+      <ns3:outputSOATest xmlns:ns3="http://codeusingjava.com">
+         <result>Hello mario!</result>
+      </ns3:outputSOATest>
+   </soapenv:Body>
+</soapenv:Envelope>
